@@ -1,2 +1,2 @@
 # Kaggle
-Some free time play and code :)
+Added some feature selection using SelectFromModel
